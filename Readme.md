@@ -6,11 +6,10 @@
 <!-- default file list end -->
 # GridLookUpEdit: multiple selection using checkbox (web style)
 
+We <strong>deprecated this example</strong> since the approach illustrated here is not compatible with the inner GridLookUpEdit core mechanism. Use the approach from the <a href="https://github.com/DevExpress-Examples/how-to-provide-the-multiselect-functionality-for-gridlookupedit-t191038">How to provide the MultiSelect functionality for GridLookUpEdit</a> example instead.
 
-<p>The current example extends multiple selection in the web style (via check boxes) functionality, described in the <a href="https://www.devexpress.com/Support/Center/p/E1271">Multiple selection using checkbox (web style)</a> example, for the <a href="http://documentation.devexpress.com/#WindowsForms/clsDevExpressXtraEditorsGridLookUpEdittopic"><u>GridLookUpEdit</u></a>. In case of GridLookUpEdit bound data source is initialized only after the popup window is shown, so it is impossible, for example, to select all entries on popup window load. To handle this, data source should be used directly. The following example illustrates this approach.</p><p><strong>See </strong><strong><u>also:</u></strong><br />
-<a href="https://www.devexpress.com/Support/Center/p/E990">How to use an unbound check box column to select grid rows</a><br />
-<a href="https://www.devexpress.com/Support/Center/p/E1271">Multiple selection using checkbox (web style)</a></p>
 
-<br/>
+
+
 
 
